@@ -7,10 +7,10 @@
 
 - I'm a Developer backend and Frontend
 - 👀 I’m interested in: Crypto, e-commerce, Blogging-CMS, Scalable app
-- 🌱 I’m currently learning: NextJs React TypeScript, 
+- 🌱 I’m currently learning: NextJS React TypeScript, 
 
 <div>
- <h3>Principal Tecnologies </h3>
+ <h3>Principal Technologies </h3>
  
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
